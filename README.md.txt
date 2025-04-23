@@ -1,0 +1,12 @@
+Summary and Reflection on The Gaming Room Software Design
+The client for this project was The Gaming Room, a company that wanted to expand their game, Draw it or Lose it, to multiple platforms beyond Android. Their goal was to make the game accessible across web-based and traditional operating systems in a secure, scalable, and maintainable way. They asked us to design software that could support this expansion using cloud-based architecture while maintaining performance and user experience across different platforms.
+What I Did Well
+I did well by clearly outlining the requirements and constraints early in the document. This helped guide my design choices and made proposing solutions that aligned with the client’s goals easier. I also felt confident in analyzing different operating platforms and tools, giving realistic recommendations based on platform strengths.
+Helpful Parts of the Design Process
+Working through a full design document helped me organize my thoughts before jumping into code. It forced me to consider aspects like memory management, storage, and system architecture—things that are easy to overlook when you’re only focused on writing code. This planning stage really set a solid foundation for development.
+What I’d Revise
+If I could revise one part, I would improve the System Architecture View by adding a diagram or more specific details about the communication between components. Visuals could make it clearer how the app components interact, especially for clients or team members who are more visual learners.
+Interpreting and Meeting User Needs
+I focused on interpreting the client's need for platform flexibility, scalability, and security. I made sure those were key parts of my design, like choosing a cloud native approach and recommending secure communication protocols. Considering user needs is vital because if the end product doesn't align with what the user wants or expects, it won't be successful, no matter how well it's built.
+My Approach to Software
+I approached software design by breaking down requirements into manageable parts, then matching each with the best-fitting technology or architecture.  In the future, I will continue using techniques like creating domain models, evaluating platforms side by side, and focusing on user needs. These steps really help connect the technical side of the design with the client's vision.
